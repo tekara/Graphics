@@ -1,0 +1,25 @@
+# Blender MTL File: 'dancer03.blend'
+# Material Count: 2
+
+newmtl m_clubGirlA
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd t_clubGirlsA_dm.tga
+map_Disp t_clubGirlsA_n.tga
+map_Ks t_clubGirlsA_s.tga
+
+newmtl m_clubGirl_eye
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd t_eye_d.tga
+map_Disp t_eye_n.tga
